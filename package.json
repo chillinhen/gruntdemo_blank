@@ -1,0 +1,19 @@
+{
+  "name": "gruntdemo_blank",
+  "version": "1.0.0",
+  "description": "test default grunt workflow",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudi",
+  "license": "ISC"
+}
